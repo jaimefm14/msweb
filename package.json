@@ -1,0 +1,24 @@
+{
+  "name": "msweb",
+  "description": "Ms website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimefm14/msweb.git"
+  },
+  "author": "Jaime Fernández Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimefm14/msweb/issues"
+  },
+  "homepage": "https://github.com/jaimefm14/msweb#readme"
+}
